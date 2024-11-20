@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'Hi, my name is Forty'
+landing-title: 'Mathematical Medicine by Robert Young V'
 description: null
 image: null
 author: null
