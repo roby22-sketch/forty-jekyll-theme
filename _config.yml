@@ -4,14 +4,14 @@ subtitle: by Robert Young V
 email: robertyo@ttu.edu
 description: Just a guy interested in Mathematics, Medicine, and everything in between.
 baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
-url: # the base hostname & protocol for your site
-author:
-street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
-zip_code: 55555
+url: https://roby22-sketch.github.io/forty-jekyll-theme/
+author: Robert Young V
+street_address: 2003 Glenna Goodacre Blvd., Apt 2305
+city: Lubbcok
+state: TX
+zip_code: 79401
 country: United States of America
-phone: (716) 555-5555
+phone: (325)-232-5238
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
