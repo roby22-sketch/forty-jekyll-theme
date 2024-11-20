@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Elements
+title: Research Interests and CV
 image: assets/images/pic01.jpg
 nav-menu: true
 ---
