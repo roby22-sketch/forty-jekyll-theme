@@ -4,7 +4,7 @@ subtitle: by Robert Young V
 email: robertyo@ttu.edu
 description: Just a guy interested in Mathematics, Medicine, and everything in between.
 baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
-url: https://roby22-sketch.github.io/forty-jekyll-theme/
+url:
 author: Robert Young V
 street_address: 2003 Glenna Goodacre Blvd., Apt 2305
 city: Lubbcok
