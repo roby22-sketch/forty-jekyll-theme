@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Research Interests and CV 
-image: assets/images/TrUE Symposium 2024-233.jpg
+image: assets/images/TrUE Symposium 2024-233.png
 nav-menu: true
 ---
 
