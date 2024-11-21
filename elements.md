@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Research Interests and CV
+title: Research Interests and CV 
 image: assets/images/TrUE Symposium 2024-233.jpg
 nav-menu: true
 ---
