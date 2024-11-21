@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A short biography
-description: Lorem ipsum dolor est
+description: Who I am and What I do
 image: assets/images/pic11.jpg
 nav-menu: true
 ---
@@ -12,4 +12,4 @@ I then began studying at Texas Tech University pursuing a degree in mathematics.
 
 While at TTU, I was awarded the pleasure to be apart of a variety of wonderful organizations. I served as the Treasurer, Vice President, and President of Double T Health Service Corps. Double T is a Pre-Health student organization designed to help students for graduate school by providing test prep resources, guest speakers from various fields of health, and volunteering opportunities. I was particularly involved with developing our connection with students at the TTU Health Sciences Center and providing more research/volunteering resources for students. For example, I have volunteered with the First Cumberland Presbyterian Pumpkin Patch for four years. The pumpkin patch is held by some great people that donate a majority of the earnings to the church and the Navajo Nation. The impact of our service is extremely gratifying and I am always touched by the great people I get to be around every year. My other affiliations include my time as a TrUE, CISER, and Mortar Board scholar. Through each of these organizations I was given the opportunity to both connect with like minded people and meet some of the most impressive individuals I know. Science is often a very lonely world and knowing ther are others that love this wacky life is extremely comforting. 
 
-Currently, I am trying to enjoy the wonderful life we have all benn given. Most of my time is spent in the lab, at my computer, practicing my archery, working out, playing golf, or listening to jazz. In the coming years I will be finishing my Master's degree in mathematics while applying to MD/PhD programs for the Fall of 2026. Here is to many more years of learning, innovation, and new adventures!
+Currently, I am trying to enjoy the wonderful life we have all been given. Most of my time is spent in the lab, at my computer, practicing my archery, working out, playing golf, or listening to jazz. In the Spring of 2025 I will be graduating with my BS in Mathematics with minors in Biology, Chemistry, and Health Professions with Honors. In the coming years I will be finishing my Master's degree in mathematics while applying to MD/PhD programs for the Fall of 2026. Here is to many more years of learning, innovation, and new adventures!
