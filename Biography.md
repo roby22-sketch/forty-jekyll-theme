@@ -2,7 +2,7 @@
 layout: post
 title: A short biography
 description: Who I am and What I do
-image: assets/images/pic11.jpg
+image: assets/images/IMG_1226.jpg
 nav-menu: true
 ---
 
