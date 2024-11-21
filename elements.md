@@ -16,29 +16,16 @@ nav-menu: true
 		</header>
 
 <!-- Content -->
-<h2 id="content">Sample Content</h2>
-<p>Praesent ac adipiscing ullamcorper semper ut amet ac risus. Lorem sapien ut odio odio nunc. Ac adipiscing nibh porttitor erat risus justo adipiscing adipiscing amet placerat accumsan. Vis. Faucibus odio magna tempus adipiscing a non. In mi primis arcu ut non accumsan vivamus ac blandit adipiscing adipiscing arcu metus praesent turpis eu ac lacinia nunc ac commodo gravida adipiscing eget accumsan ac nunc adipiscing adipiscing.</p>
+<h2 id="content">Research Interests and CV</h2>
+<p>Broadly, my work tries to use applied mathematical models to udnertsnad biological processes. These preocesses range from chemoresistance, to Alzheimer's Disease, to ecology. I try to apply these models to create a more informed future by applying quanititative precision to normally abstract concepts. </p>
 <div class="row">
 	<div class="6u 12u$(small)">
-		<h3>Sem turpis amet semper</h3>
-		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat commodo eu sed ante lacinia. Sapien a lorem in integer ornare praesent commodo adipiscing arcu in massa commodo lorem accumsan at odio massa ac ac. Semper adipiscing varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
+		<h3>Mathematical Modeling of Cancer</h3>
+		<p>In the summer of 2023 I began working in the Department of Cell Biology and Biochemistry at the Texas Tech Health Sciences Center under Dr. Komoraiah Palle. In the lab we focus on elcuidating the molecular mechanisms cancer utilizes to thwart chemotherapy. I use MCMC (Markov Chain Monte Carlo) and Live Cell Imaging methods to fit and parametrize growth curves of chemoresistant and senistive cell lines under cytotoxic stress. The evolution of these parameters across various platforms can reveal hidden patterns in the way cancers develop chemoresistance. Additionally, I was apart of a project that developed 5-FlouroUracil resistant colorectal cancer cell lines to test a novel 2nd generation flouropyrimidine. Finally, I dontributed to a publication which determined that the combination of PARG and CHK1 inhibitors synergistically kill chemoresistant ovarian cancer. (See Publication here). Through all of these projects I have gained an intimate understanding of refining protocols, and the rigor of science. I am very well trained and capable with cytotoxicity and biochemical assays like clonogenic survival and the MTT assay, agarose and SDS page gel electrophoresis, and immunoflourescence experiments.  </p>
 	</div>
 	<div class="6u$ 12u$(small)">
-		<h3>Magna odio tempus commodo</h3>
-		<p>In arcu accumsan arcu adipiscing accumsan orci ac. Felis id enim aliquet. Accumsan ac integer lobortis commodo ornare aliquet accumsan erat tempus amet porttitor. Ante commodo blandit adipiscing integer semper orci eget. Faucibus commodo adipiscing mi eu nullam accumsan morbi arcu ornare odio mi adipiscing nascetur lacus ac interdum morbi accumsan vis mi accumsan ac praesent.</p>
-	</div>
-	<!-- Break -->
-	<div class="4u 12u$(medium)">
-		<h3>Interdum sapien gravida</h3>
-		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
-	</div>
-	<div class="4u 12u$(medium)">
-		<h3>Faucibus consequat lorem</h3>
-		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
-	</div>
-	<div class="4u$ 12u$(medium)">
-		<h3>Accumsan montes viverra</h3>
-		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
+		<h3>Dynamical Systems and Brain Modelling</h3>
+		<p>Neurodegenerative diseases, such as Alzheimer's are highly complex and multiscale. It is of utmost importance to understand the key drivers of disease progression. Furthermore, developing mathematical models that describe such diseases can provide insight towards devloping effective therapeutics. I try to understand the critical drivers of Alzheimer's disease whihc drive treatment progression from a mathematical perspective. The brain can be viewed as a simple network with nodes and edges, a specifically useful tool for algebraic topoplogists. Using various methods, we can model the progression of prion like proteins throughout the brain while investigating the roles of clearance, inflammation, and various other biological factors. Our group has developed a high-performance scienctific computing library to colve these models on a complex network which can simulate disease progression from a multitude of angles. Through this research we hope to uncover the critical factors which lead to Amyloid Beta plauqes, Tau tangles, and Alheimer's Disease. </p>
 	</div>
 </div>
 
