@@ -2,7 +2,7 @@
 layout: post
 title: A short biography
 description: Who I am and What I do
-image: [assets/images/pic11.jpg](https://github.com/roby22-sketch/forty-jekyll-theme/blob/master/assets/images/IMG_1226.jpg)
+image: assets/images/pic11.jpg
 nav-menu: true
 ---
 
