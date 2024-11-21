@@ -3,7 +3,7 @@ layout: home
 title: Home
 landing-title: 'Mathematical Medicine by Robert Young V'
 description: null
-image: null
+image: /assets/images/images%20(1).jpg
 author: null
 show_tile: false
 ---
