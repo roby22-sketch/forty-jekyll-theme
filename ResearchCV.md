@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Research Interests
-image: TrUE Symposium 2024-234.jpg
+image: TrUE Symposium 2024-balls.jpg
 nav-menu: true
 ---
 
