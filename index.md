@@ -3,7 +3,7 @@ layout: home
 title: Home
 landing-title: "Medisin(e)"
 description: null
-image: assets/images/Screenshot 2024-11-20 190556.jpg
+image: Cell-division---one-to-many.webp
 author: null
 show_tile: false
 ---
