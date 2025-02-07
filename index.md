@@ -3,7 +3,7 @@ layout: home
 title: Home
 landing-title: "Medisin(e)"
 description: null
-image: assets/images/one-to-many.jpg
+image: null
 author: null
 show_tile: false
 ---
