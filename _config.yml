@@ -2,12 +2,12 @@
 title: M2R5
 subtitle: by Robert Young V
 email: robertyo@ttu.edu
-description: Just a guy interested in Mathematics, Medicine, and everything in between.
+description: Mathematics, Medicine, and everything in between.
 baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
 url:
 author: Robert Young V
-street_address: 2003 Glenna Goodacre Blvd., Apt 2305
-city: Lubbcok
+street_address: 2003 Glenna Goodacre Blvd, Apt 2305
+city: Lubbock
 state: TX
 zip_code: 79401
 country: United States of America
