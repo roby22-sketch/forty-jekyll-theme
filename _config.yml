@@ -3,7 +3,7 @@ title: Math
 subtitle: by Robert Young V
 email: robertyo@ttu.edu
 description: Mathematics, Medicine, and everything in between.
-baseurl: "/medisine" # the subpath of your site, e.g. /blog
+baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
 url:
 author: Robert Young V
 street_address: 2003 Glenna Goodacre Blvd, Apt 2305
