@@ -12,11 +12,11 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1>Elements</h1>
+			<h1>Research Interests</h1>
 		</header>
 
 <!-- Content -->
-<h2 id="content">Research Interests and CV</h2>
+<h2 id="content">Medisin(e)</h2>
 <p>Broadly, my work tries to use applied mathematical models to udnertsnad biological processes. These preocesses range from chemoresistance, to Alzheimer's Disease, to ecology. I try to apply these models to create a more informed future by applying quanititative precision to normally abstract concepts. </p>
 <div class="row">
 	<div class="6u 12u$(small)">
