@@ -3,7 +3,7 @@ layout: home
 title: Home
 landing-title: "Medisin(e)"
 description: null
-image: TrUE Symposium 2024-234.jpg
+image: assets/images/one-to-many.jpg
 author: null
 show_tile: true
 ---
