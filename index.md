@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'Mathematical Medicine by Robert Young V'
+landing-title: "$$ \int \sin(e) \,dx $$"
 description: null
 image: assets/images/Screenshot 2024-11-20 190556.jpg
 author: null
