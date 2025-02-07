@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: "Math"
+landing-title: "Medisin(e)"
 description: null
 image: assets/images/Screenshot 2024-11-20 190556.jpg
 author: null
