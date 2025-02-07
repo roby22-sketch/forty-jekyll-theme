@@ -2,6 +2,7 @@
 layout: post
 title: Research Interests
 image: IMG_5912.JPG
+description: What I work on
 nav-menu: true
 ---
 
